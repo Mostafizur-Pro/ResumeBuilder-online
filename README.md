@@ -2,31 +2,34 @@
 
 #### Live link
 
-`Live website` [Click here](https://unique-resume.vercel.app/)
+<!-- `Live website` [Click here](https://unique-resume.vercel.app/) -->
 <!-- `client-side` [Click here](https://unique-resume.vercel.app/) -->
 <!-- `server-side` [Click here]() -->
 
-#### Code link 
+#### Code link
 
 <!-- `GitHub` [Click here](https://github.com/nurulcse7/unique-resume) -->
-`client-side` [Click here](https://github.com/nurulcse7/unique-resume)
-`server-side` [Click here]()
+<!-- `client-side` [Click here](https://github.com/nurulcse7/unique-resume)
+`server-side` [Click here]() -->
 
 ### Description
-- This project implements for build your Resume and CV in the job sector.
---- 
 
-### Features 
-- Custom Design 
-- SEO Friendly 
-- Mobile and PC, Tablet Responsive 
-- Doctors Management 
-- Customers Management 
-- Add to Cart / Book Appointment 
-- Payment Gateway 
-- Email services 
-<!-- - Shipping Management  -->
-<!-- - Invoice Printing  -->
+- This project implements for build your Resume and CV in the job sector.
+
+---
+
+### Features
+
+- Custom Design
+- SEO Friendly
+- Mobile and PC, Tablet Responsive
+- Doctors Management
+- Customers Management
+- Add to Cart / Book Appointment
+- Payment Gateway
+- Email services
+  <!-- - Shipping Management  -->
+  <!-- - Invoice Printing  -->
 
 #### Front-end Technology
 
@@ -35,7 +38,7 @@
 - daisyUI
 - JavaScript
 - ReactJS
-- React Query 
+- React Query
 - React Router - (npm install react-router-dom)
 - React Hook Form (npm install react-hook-form)
 - React-Hot-Toast (npm install react-hot-toast) [Docs](https://react-hot-toast.com/docs)
@@ -44,7 +47,7 @@
 - React Day Picker (npm install react-day-picker date-fns)
 - TypewriterJS (npm i typewriter-effect)
 - StripeJS (npm install --save @stripe/react-stripe-js @stripe/stripe-js)
-- EmailJS (npm install @emailjs/browser --save) 
+- EmailJS (npm install @emailjs/browser --save)
 - React-phone-number-input (npm i react-phone-number-input) [Docs](https://www.npmjs.com/package/react-phone-number-input)
 
 #### Back-end Technology
@@ -56,7 +59,7 @@
 - MongoDB (Atlas, Cluster) for database [Docs](https://cloud.mongodb.com/)
 
 - React Query/ TanStack Query (npm i @tanstack/react-query)
-<!-- 
+<!--
 - JWT (JSON Web Token) for authorization (npm i jsonwebtoken) [Docs](https://www.npmjs.com/package/jsonwebtoken)
 
 - Stripe for payment get way (npm install --save stripe) [Docs1](https://stripe.com/docs/payments/quickstart) [Docs2](https://stripe.com/docs/testing)
@@ -65,16 +68,14 @@
 - Mailgun () [Docs](https://app.mailgun.com/mg/dashboard) (https://www.npmjs.com/package/nodemailer-mailgun-transport) (npm i nodemailer-mailgun-transport) -->
 
 #### Deploy (Hosting)
+
 <!-- - Deploy frontend in Firebase (Client) [Docs](https://console.firebase.google.com/) -->
+
 - Deploy backend in Vercel (server) [Docs](https://vercel.com/dashboard)
-
-
 
 ---
 
-
-
-<!-- 
+<!--
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
